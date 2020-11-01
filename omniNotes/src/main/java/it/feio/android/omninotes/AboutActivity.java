@@ -31,6 +31,7 @@ public class AboutActivity extends BaseActivity {
     webview.loadUrl("file:///android_asset/html/about.html");
 
     initUI();
+	//testing
   }
 
 
